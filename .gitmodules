@@ -1,0 +1,3 @@
+[submodule "compilation-benchmarks"]
+	path = compilation-benchmarks
+	url = https://github.com/spall/compilation-benchmarks.git
